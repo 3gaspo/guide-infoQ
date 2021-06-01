@@ -1,4 +1,4 @@
-##Guide d'informatique quantique
+## Guide d'informatique quantique
 
 Ce guide d'informatique quantique a été réalisé à CentraleSupélec durant les années 2021-2022 (P2023) par :
 Gaspard Berthelier
