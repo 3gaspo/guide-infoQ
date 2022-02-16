@@ -2,6 +2,3 @@
 - régler annexes
 - grover : code à finir. Reste : controlled n Z gate (et donc ccz à trouver)
 - toffoli : théorie à 6 cnots à finir, code à commencer.
-- lire ML
-- lire QFT
-- lire MPS
