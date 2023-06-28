@@ -7,5 +7,3 @@ Léo Durand-Kollner (partie MPS et codes stabilisateurs)
 
 Le guide a pour vocation de faire environ 100 pages.
 Il n'est pas encore complet (environ 70 pages à ce jour), et sera terminé durant l'année 2022-2023.
-
-Quelques sont encore manquants et seront ajoutés progressivement
