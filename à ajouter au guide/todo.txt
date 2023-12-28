@@ -1,4 +1,0 @@
-- Comment initialiser un multi Qbits dans un état intriqué ? (un 2Qbit qui ne se divise par en 2 qbits initiaux par exemple)
-- régler annexes
-- grover : code à finir. Reste : controlled n Z gate (et donc ccz à trouver)
-- toffoli : théorie à 6 cnots à finir, code à commencer.
