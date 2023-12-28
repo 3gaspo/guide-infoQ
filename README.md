@@ -8,7 +8,7 @@ La partie "introduction" comporte les bases théoriques et pratiques pour apréh
 - Simulation de circuits quantiques avec Qiskit
 - Création d'un additionneur
 - Algorithmes de Deutsch, Bernstein-Varizani, Grover
-- 
+
 La partie "approfondissement" s'intéresse à des thématiques plus spécifiques :
 QFT, Shor, QAOA, MPS, code d'erreurs, machine learning, ...
 
