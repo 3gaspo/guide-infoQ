@@ -3,7 +3,7 @@
 Guide d'informatique quantique réalisé durant l'année 2021-2022 dans le cadre du projet _informatique quantique_ du pôle _formation à la recherche_ à CentraleSupélec.
 Auteur : Gaspard Berthelier (P2023).
 
-La partie "introduction" comporte les bases théoriques et pratiques pour apréhender les algorithmes simples d'informatique quantique :
+La partie "introduction" comporte les bases théoriques et pratiques pour appréhender les algorithmes simples d'informatique quantique :
 - Qbits
 - Simulation de circuits quantiques avec Qiskit
 - Création d'un additionneur
