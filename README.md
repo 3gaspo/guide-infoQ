@@ -9,7 +9,7 @@ La partie "introduction" comporte les bases théoriques et pratiques pour apréh
 - Création d'un additionneur
 - Algorithmes de Deutsch, Bernstein-Varizani, Grover
   
-![qbit](https://github.com/user-attachments/assets/3280851a-3bf6-453c-ad28-1ae61b54c6c9)
+![qbit](https://github.com/user-attachments/assets/4996f337-1473-4ae2-b0a0-8cffd1ff364f|width=10)
 
 Une partie "approfondissement" est en cours de (ré)écriture. Elle s'intéresse à des thématiques plus spécifiques :
 QFT, Shor, QAOA, MPS, code d'erreurs, machine learning, ...
