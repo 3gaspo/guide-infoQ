@@ -1,15 +1,15 @@
 ## Guide d'informatique quantique
 
-Ce guide d'informatique quantique a été réalisé durant l'année 2021-2022 dans le cadre du projet "informatique quantique" du pôle "formation à la recherche" à CentraleSupélec.
-Auteur principal : Gaspard Berthelier (P2023).
+Guide d'informatique quantique réalisé durant l'année 2021-2022 dans le cadre du projet _informatique quantique_ du pôle _formation à la recherche_ à CentraleSupélec.
+Auteur : Gaspard Berthelier (P2023).
 
 La partie "introduction" comporte les bases théoriques et pratiques pour apréhender les algorithmes simples d'informatique quantique :
 - Qbits
 - Simulation de circuits quantiques avec Qiskit
 - Création d'un additionneur
 - Algorithmes de Deutsch, Bernstein-Varizani, Grover
+  
+![qbit](https://github.com/user-attachments/assets/3280851a-3bf6-453c-ad28-1ae61b54c6c9)
 
-La partie "approfondissement" s'intéresse à des thématiques plus spécifiques :
+Une partie "approfondissement" est en cours de (ré)écriture. Elle s'intéresse à des thématiques plus spécifiques :
 QFT, Shor, QAOA, MPS, code d'erreurs, machine learning, ...
-
-Cette partie est encore en cours de (ré)écriture.
